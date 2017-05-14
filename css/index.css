@@ -1,0 +1,15 @@
+header {
+    background-image: url("../img/air_view.jpeg");
+    background-size: cover;
+}
+.img-circle {
+    width: 25%;
+    height: 25%;
+}
+.skills {
+    font-size: smaller;
+}
+.success {
+    background-color: #204d74;
+    text-align: center;
+}
