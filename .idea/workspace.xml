@@ -2,106 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5c613c7a-1791-4251-bd94-458b460082f5" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/WebstormProjects/travelblog/vendor/font-awesome/fonts/FontAwesome.otf" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/WebstormProjects/travelblog/img/air_view.jpeg" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/WebstormProjects/travelblog/img/destinations/01/barcelona.jpg" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/WebstormProjects/travelblog/img/destinations/02/barcelona.jpg" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/WebstormProjects/travelblog/img/destinations/01/berlin.jpg" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/WebstormProjects/travelblog/img/destinations/02/berlin.jpg" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/WebstormProjects/travelblog/img/destinations/01/budapest.jpg" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/WebstormProjects/travelblog/img/destinations/02/budapest.jpg" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/WebstormProjects/travelblog/img/portfolio/cabin.png" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/WebstormProjects/travelblog/img/portfolio/cake.png" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/WebstormProjects/travelblog/img/portfolio/circus.png" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/WebstormProjects/travelblog/img/destinations/01/dubai.jpg" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/WebstormProjects/travelblog/img/destinations/02/dubai.jpg" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/WebstormProjects/travelblog/img/destinations/01/dubrovnik.jpg" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/WebstormProjects/travelblog/img/destinations/02/dubrovnik.jpg" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/WebstormProjects/travelblog/vendor/font-awesome/fonts/fontawesome-webfont.eot" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/WebstormProjects/travelblog/vendor/font-awesome/fonts/fontawesome-webfont.ttf" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/WebstormProjects/travelblog/vendor/font-awesome/fonts/fontawesome-webfont.woff2" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/WebstormProjects/travelblog/vendor/font-awesome/fonts/fontawesome-webfont.woff" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/WebstormProjects/travelblog/img/portfolio/game.png" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/WebstormProjects/travelblog/vendor/bootstrap/fonts/glyphicons-halflings-regular.eot" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/WebstormProjects/travelblog/vendor/bootstrap/fonts/glyphicons-halflings-regular.ttf" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/WebstormProjects/travelblog/vendor/bootstrap/fonts/glyphicons-halflings-regular.woff2" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/WebstormProjects/travelblog/vendor/bootstrap/fonts/glyphicons-halflings-regular.woff" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/WebstormProjects/travelblog/img/destinations/01/greece.jpg" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/WebstormProjects/travelblog/img/destinations/02/greece.jpg" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/WebstormProjects/travelblog/img/destinations/01/london.jpg" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/WebstormProjects/travelblog/img/destinations/02/london.jpg" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/WebstormProjects/travelblog/img/me.png" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/WebstormProjects/travelblog/img/destinations/01/netherlands.jpg" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/WebstormProjects/travelblog/img/destinations/02/netherlands.jpg" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/WebstormProjects/travelblog/img/destinations/01/rome.jpg" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/WebstormProjects/travelblog/img/destinations/02/rome.jpg" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/WebstormProjects/travelblog/img/portfolio/safe.png" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/WebstormProjects/travelblog/img/portfolio/submarine.png" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/WebstormProjects/travelblog/img/destinations/01/tenerife.jpg" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/WebstormProjects/travelblog/img/destinations/02/tenerife.jpg" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/WebstormProjects/travelblog/img/destinations/01/venice.jpg" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/WebstormProjects/travelblog/img/destinations/02/venice.jpg" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/WebstormProjects/travelblog/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/WebstormProjects/travelblog/.idea/.name" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/WebstormProjects/travelblog/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/WebstormProjects/travelblog/README.md" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/WebstormProjects/travelblog/vendor/font-awesome/scss/_animated.scss" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/WebstormProjects/travelblog/vendor/font-awesome/scss/_bordered-pulled.scss" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/WebstormProjects/travelblog/vendor/font-awesome/scss/_core.scss" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/WebstormProjects/travelblog/vendor/font-awesome/scss/_fixed-width.scss" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/WebstormProjects/travelblog/vendor/font-awesome/scss/_icons.scss" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/WebstormProjects/travelblog/vendor/font-awesome/scss/_larger.scss" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/WebstormProjects/travelblog/vendor/font-awesome/scss/_list.scss" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/WebstormProjects/travelblog/vendor/font-awesome/scss/_mixins.scss" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/WebstormProjects/travelblog/vendor/font-awesome/scss/_path.scss" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/WebstormProjects/travelblog/vendor/font-awesome/scss/_rotated-flipped.scss" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/WebstormProjects/travelblog/vendor/font-awesome/scss/_screen-reader.scss" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/WebstormProjects/travelblog/vendor/font-awesome/scss/_stacked.scss" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/WebstormProjects/travelblog/vendor/font-awesome/scss/_variables.scss" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/WebstormProjects/travelblog/vendor/font-awesome/less/animated.less" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/WebstormProjects/travelblog/vendor/bootstrap/css/bootstrap.css" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/WebstormProjects/travelblog/vendor/bootstrap/js/bootstrap.js" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/WebstormProjects/travelblog/vendor/bootstrap/css/bootstrap.min.css" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/WebstormProjects/travelblog/vendor/bootstrap/js/bootstrap.min.js" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/WebstormProjects/travelblog/vendor/font-awesome/less/bordered-pulled.less" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/WebstormProjects/travelblog/js/contact_me.js" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/WebstormProjects/travelblog/mail/contact_me.php" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/WebstormProjects/travelblog/vendor/font-awesome/less/core.less" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/WebstormProjects/travelblog/vendor/font-awesome/less/fixed-width.less" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/WebstormProjects/travelblog/vendor/font-awesome/css/font-awesome.css" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/WebstormProjects/travelblog/vendor/font-awesome/less/font-awesome.less" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/WebstormProjects/travelblog/vendor/font-awesome/css/font-awesome.min.css" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/WebstormProjects/travelblog/vendor/font-awesome/scss/font-awesome.scss" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/WebstormProjects/travelblog/vendor/font-awesome/fonts/fontawesome-webfont.svg" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/WebstormProjects/travelblog/css/freelancer.css" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/WebstormProjects/travelblog/js/freelancer.js" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/WebstormProjects/travelblog/less/freelancer.less" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/WebstormProjects/travelblog/css/freelancer.min.css" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/WebstormProjects/travelblog/js/freelancer.min.js" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/WebstormProjects/travelblog/vendor/bootstrap/fonts/glyphicons-halflings-regular.svg" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/WebstormProjects/travelblog/gulpfile.js" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/WebstormProjects/travelblog/vendor/font-awesome/less/icons.less" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/WebstormProjects/travelblog/css/index.css" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/WebstormProjects/travelblog/index.html" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/WebstormProjects/travelblog/js/jqBootstrapValidation.js" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/WebstormProjects/travelblog/vendor/jquery/jquery.js" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/WebstormProjects/travelblog/vendor/jquery/jquery.min.js" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/WebstormProjects/travelblog/vendor/font-awesome/less/larger.less" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/WebstormProjects/travelblog/vendor/font-awesome/less/list.less" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/WebstormProjects/travelblog/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/WebstormProjects/travelblog/less/mixins.less" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/WebstormProjects/travelblog/vendor/font-awesome/less/mixins.less" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/WebstormProjects/travelblog/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/WebstormProjects/travelblog/package.json" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/WebstormProjects/travelblog/vendor/font-awesome/less/path.less" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/WebstormProjects/travelblog/vendor/font-awesome/less/rotated-flipped.less" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/WebstormProjects/travelblog/vendor/font-awesome/less/screen-reader.less" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/WebstormProjects/travelblog/vendor/font-awesome/less/stacked.less" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/WebstormProjects/travelblog/.idea/travelblog.iml" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/WebstormProjects/travelblog/less/variables.less" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/WebstormProjects/travelblog/vendor/font-awesome/less/variables.less" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/WebstormProjects/travelblog/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/WebstormProjects/travelblog/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/WebstormProjects/travelblog/README.md" afterPath="$USER_HOME$/WebstormProjects/travelblog/README.md" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/WebstormProjects/travelblog/.idea/workspace.xml" afterPath="$USER_HOME$/WebstormProjects/travelblog/.idea/workspace.xml" />
     </list>
     <ignored path="startbootstrap-freelancer-gh-pages.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -122,11 +24,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$USER_HOME$/WebstormProjects/travelblog/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="13.386244">
-              <caret line="321" column="59" selection-start-line="321" selection-start-column="59" selection-end-line="321" selection-end-column="59" />
+            <state vertical-scroll-proportion="-5.4074073">
+              <caret line="48" column="0" selection-start-line="48" selection-start-column="0" selection-end-line="48" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+        <entry file="file://$USER_HOME$/WebstormProjects/travelblog/README.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="0" column="13" selection-start-line="0" selection-start-column="13" selection-end-line="0" selection-end-column="13" />
               <folding />
             </state>
           </provider>
@@ -164,6 +76,7 @@
   <component name="Git.Settings">
     <option name="PREVIOUS_COMMIT_AUTHORS">
       <list>
+        <option value="meli &lt;melinda.bacso9@gmail.com&gt;" />
         <option value="meli" />
       </list>
     </option>
@@ -175,6 +88,8 @@
         <option value="$USER_HOME$/WebstormProjects/startbootstrap-freelancer-gh-pages/css/index.css" />
         <option value="$USER_HOME$/WebstormProjects/startbootstrap-freelancer-gh-pages/index.html" />
         <option value="$USER_HOME$/WebstormProjects/startbootstrap-freelancer-gh-pages/mail/contact_me.php" />
+        <option value="$USER_HOME$/WebstormProjects/travelblog/index.html" />
+        <option value="$USER_HOME$/WebstormProjects/travelblog/README.md" />
       </list>
     </option>
   </component>
@@ -301,6 +216,13 @@
       <option name="number" value="Default" />
       <updated>1494675210630</updated>
     </task>
+    <task id="LOCAL-00001" summary="init version">
+      <created>1494761966863</created>
+      <option name="number" value="00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1494761966863</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -423,8 +345,16 @@
     </entry>
     <entry file="file://$USER_HOME$/WebstormProjects/travelblog/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="13.386244">
-          <caret line="321" column="59" selection-start-line="321" selection-start-column="59" selection-end-line="321" selection-end-column="59" />
+        <state vertical-scroll-proportion="-5.4074073">
+          <caret line="48" column="0" selection-start-line="48" selection-start-column="0" selection-end-line="48" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/WebstormProjects/travelblog/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="13" selection-start-line="0" selection-start-column="13" selection-end-line="0" selection-end-column="13" />
           <folding />
         </state>
       </provider>
