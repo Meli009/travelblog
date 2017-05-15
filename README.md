@@ -15,5 +15,5 @@ It is quite exciting, so I am planning to widen my knowledge as much as I can.
 
 If you find this page just a little interesting, or have any remarks or suggestions, please do not hesitate to contact me:
 
-melinda.bacso9@gmail.com
+melinda.bacso9@gmail.com/
 https://github.com/Meli009.
